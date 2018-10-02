@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="developer">S.P Srilal Sachintha</string>
+    <string name="email">Srilalsachintha@Gmail.com</string>
+
+    <string name="TurnedON">Turned ON</string>
+    <string name="TurnedOFF">Turned OFF</string>
+
+    <string name="Blink">Blink Selected</string>
+    <string name="SOS">S-O-S Selected</string>
+    <string name="Torch">Torch Selected</string>
+    <string name="info">before changing the light mode, Turn off the light…</string>
+
+    <string name="company">Build by 2nd Wave. © 2018 2nd Wave. All Rights Reserved.</string>
+
+    <string name="A1">Torch</string>
+    <string name="A2">S-O-S</string>
+    <string name="A3">Blink</string>
+    <string name="A4">main btn</string>
+    <string name="A5">torch btn</string>
+    <string name="A6">blink btn</string>
+    <string name="A7">sos btn</string>
+    <string name="A8">Torch is</string>
+    <string name="A9">Torch</string>
+    <string name="A10">Torch</string>
+</resources>
