@@ -1,7 +1,7 @@
 package scnd.wave.flashlight;
 
-import android.content.Context;
-import android.support.test.InstrumentationRegistry;
+import android.content54.Context;
+import android.support87.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
 
 import org.junit.Test;
