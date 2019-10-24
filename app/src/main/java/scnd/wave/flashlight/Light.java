@@ -9,6 +9,7 @@ public class Light implements Runnable {
     }
 
     private static Light instance;
+    private static LNK;
 
 
     volatile boolean requestStop = false;
